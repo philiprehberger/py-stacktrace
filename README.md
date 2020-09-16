@@ -1,5 +1,9 @@
 # philiprehberger-stacktrace
 
+[![Tests](https://github.com/philiprehberger/py-stacktrace/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-stacktrace/actions/workflows/publish.yml)
+[![PyPI version](https://img.shields.io/pypi/v/philiprehberger-stacktrace.svg)](https://pypi.org/project/philiprehberger-stacktrace/)
+[![License](https://img.shields.io/github/license/philiprehberger/py-stacktrace)](LICENSE)
+
 Turn Python stack traces into cleaner, more readable output.
 
 ## Installation
