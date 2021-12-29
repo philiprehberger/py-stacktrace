@@ -50,6 +50,14 @@ except Exception as e:
 - `report.short()` — One-line summary
 - `report.detailed(color, context, hide_stdlib)` — Full formatted output
 
+
+## Development
+
+```bash
+pip install -e .
+python -m pytest tests/ -v
+```
+
 ## License
 
 MIT
