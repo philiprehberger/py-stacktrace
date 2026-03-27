@@ -3,6 +3,7 @@
 [![Tests](https://github.com/philiprehberger/py-stacktrace/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-stacktrace/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/philiprehberger-stacktrace.svg)](https://pypi.org/project/philiprehberger-stacktrace/)
 [![License](https://img.shields.io/github/license/philiprehberger/py-stacktrace)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Turn Python stack traces into cleaner, more readable output.
 
